@@ -3,7 +3,7 @@
 ### Contact me
 <div id="badges">
   <a href="https://t.me/Victorioussword">
-    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegramm Badge"/>
   </a>
  </div>
 
