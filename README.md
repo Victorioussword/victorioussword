@@ -40,7 +40,6 @@ freemarker.apache.org.
 Имею большой опыт работы в команде на предыдущем месте работы, с командой добились
 снижения затрат в ответственной области на 3%, так же повысили продуктивность работы
 оборудования на 10%.
-Кроме программирования увлекаюсь горным велосипедом.
 <!--
 **Victorioussword/victorioussword** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
